@@ -467,6 +467,7 @@ section.resume-section .resume-item .resume-date {
     overflow: hidden;
     position: relative;
     padding: 60px 0;
+    margin: auto;
 }
 
 #award-box:before {
